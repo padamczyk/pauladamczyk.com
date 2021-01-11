@@ -1,0 +1,106 @@
+﻿Paul Adamczyk
+621 W 189th St.	Apt 2E
+New York, NY 10040
+
++1(862) 591-0676
+me@PaulAdamczyk.com
+http://PaulAdamczyk.com
+
+PROFESSIONAL SUMMARY
+
+ITIL V3 certified IT consultant with a development and engineering background.
+Enthusiastic IT leader with 5+ years of experience with diverse sets of IT technologies and systems management disciplines.
+Seeking an opportunity to join a dynamic organization in a leadership position and leverage my skills.
+
+WORK HISTORY
+
+INFRASTRUCTURE ANALYST | 09/2018 – 09/2019
+Capgemini America, Inc.
+
+Responsible for the daily performance and availability of the organization's overall infrastructure.
+Monitored, Executed, and Updated batch jobs with Cisco Workload Automation.
+Managed ServiceNow Incident/Change tickets escalated by the Service Desk and from Nagios.
+Escalation and Ownership through closure. Performed Nagios Configuration and Alert management.
+Monitored the storage capabilities of the system and NetBackup/Veeam jobs.
+Performed restoration and manual backup whenever requested.
+Developed of runbooks with new learnings using Confluence.
+Monitored Data Centre Environments at Lord Abbett locations of 90 Hudson, NJ, Breinigsville, PA (Tierpoint) and Secaucus, NJ (Equinix).
+Active Directory, DNS, Exchange, VMware(vCenter/vSphere) configuration and management.
+Monitored network efficiency, Power Consumptions, Cooling, Cabling, Server Racking and Equipment Integrity Vendor Access.
+Coordinated Vendor Access (DELL EMC), Equipment Moves, use of the co-location ticketing system and cage security.
+Performed daily Datacenter and Flex space walk-throughs.
+Monitored any building Alarms during any off-business hours shift and take appropriate action by engaging the Responsible teams.
+Performed weekly patches and updates on production servers (SCCM). Trained new staff members.
+
+SYSTEM REPAIR TECHNICIAN | 10/2016 - 12/2016
+ZT Group Int’l Inc.
+
+Performed hands on Linux server/network/storage hardware assembly, installation, testing and integrations.
+Hardware troubleshooting and stress testing of systems and components. BIOS and Flash ROM updates on servers and systems.
+Installation of new application software. Hardware reliability system testing, reliability stresses, failure analysis and statistical analysis.
+Worked with engineering and other cross-functional team management to define operation project requirements, solutions and schedules.
+Developed innovative techniques/approaches to accelerate failure identification and mechanism understanding and supporting technology transfer to high volume manufacturing.
+Conducted root cause analysis on issues, recommend /manage implementation of appropriate solutions.
+Concisely and effectively communicated progress, status and issues to management.
+Participated in product design and reliability reviews during new product development to ensure robustness of product design and manufacturing processes.
+Produced detailed test and failure analysis reports.
+
+IT CONSULTANT | 03/2015 - 04/2015
+Robert Half Corporation
+
+Provided Windows application, hardware and technical support for end users via phone, e-mail, and face to face.
+Supported lead technical administrator in Microsoft XP to 7 migration (100+ computers).
+Administered Microsoft Access database by modifying data, generating reports, and editing tables.
+Lead VPN implementation project to allow users to remotely log into their accounts.
+Troubleshooted network printer issues.
+Performed proprietary software installations and configurations.
+
+PLATFORM SUPPORT ANALYST | 07/2014 – 01/2015
+Bedford Freeman & Worth Publishing Group
+
+Managed incident / problem tickets in ServiceNow from end users (escalated from the central service desk). 
+Resolved application and software issues within servers, databases, web services and other mission-critical applications. 
+Tested fixes and performed post-resolution follow-ups
+Posted software updates, knowledge base, and frequently asked questions resources on company intranet to assist in problem resolution. 
+Performed preventative maintenance, including the installation of patches, and hot fixes as required. 
+Escalated to 3rd party developers to ensure prompt issue resolution. Query SQL 2005 / 2008 database tables, relationships, stored procedures, indexes and views. 
+Monitored database integrity of processes including exports and imports.
+
+SYSTEMS ADMINISTRATOR | 10/2013 – 05/2014
+Clanservers LLC
+
+Built, maintained, and deployed systems for a wide variety of gaming platforms on Windows and Linux platforms. 
+Installed, upgraded and troubleshooted reported issues with applications. 
+Monitored uptime and performance of Windows Server 2003, Windows Server 2008 & Linux systems with Nagios. 
+Maintained network infrastructure and web server services such as Apache, IIS & FTP. 
+Performed SQL database configurations. 
+Analyzed system logs and performed routine audits. Added, removed or updated user account information.
+Reset passwords and performed backups. Made contributions to organizational knowledge base. 
+Researched projects and helped with product development.
+
+HELP DESK ANALYST | 11/2012 – 02/2013
+CGS Technology Associates, Inc.
+Provided daily phone support for all end users within the Firm for all components of the IT infrastructure and Application Support. 
+Provided guidance, assistance, coordination and follow-up on questions, problems on all system applications, hardware and software. 
+Managed daily performance measured by call capture, available time, speed of answer, and call resolution and customer support. 
+Provided a link with the new National Operations Center and the end user for all aspects of infrastructure support. Ensured service delivery adherence to established service level agreements. 
+Troubleshooted workstation access, applications software and functional application support, using knowledge of network operating systems or notifying the appropriate support organization. 
+Supported the implementation and deployment of internal business systems and solutions. Maintained technology guidelines, operating procedures and support documentation. 
+Maintained communications with callers through analysis and resolution process particularly in difficult customer situations, to keep them informed of status. 
+Provided follow-up once resolved to ensure customer satisfaction. 
+Documented of resolutions and submission to Knowledge Base. 
+Provided resolution and support documentation for use by New Hires. 
+Provided peer relationship and peer support to new hires. 
+Performed related duties as assigned or requested. 
+Windows Administration, Active Directory, McAfee Endpoint Encryption, Microsoft Office Suite, Remedy, SQL, Server, MobileIron support for iPhone, iPad, and Android device management. 
+Setup WIFI networks, email/contact/calendar synchronizations, and personal hotspots for Mac users.
+
+EDUCATION
+
+Bergen Community College – Paramus, NJ | Associate of Science
+Computer Science - 05/2011 | 2.8 G.P.A.
+
+Memorial High School – Elmwood Park, NJ | High School Diploma
+General Education – 05/2006
+
+

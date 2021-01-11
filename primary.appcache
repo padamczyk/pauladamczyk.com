@@ -1,0 +1,26 @@
+CACHE MANIFEST
+# 3/20/2016 v1.0.1
+https://s3.amazonaws.com/pauladamczyk/index.html
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/linkedin.png
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/phonelogo.png
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/IMessagelogo.png
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/emaillogo.png
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/skype.png
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/gplus.png
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/github.png
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/twitter.png
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/tumblr.png
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/
+http://pauladamczyk.s3-website-us-east-1.amazonaws.com/
+
+NETWORK:
+*
+
+FALLBACK:
+https://s3.amazonaws.com/pauladamczyk/index.html

@@ -1,0 +1,339 @@
+ 
+
+Summary
+
+ITIL V3 certified IT professional with a development and engineering background. Enthusiastic IT Leader with 5+ years of experience with diverse sets of IT technologies and systems management disciplines is seeking an opportunity to join a dynamic organization in a leadership position that is seeking to leverage my skills.
+
+Skills
+
+HTML, Java, C++, SQL, PHP, CSS, Java Script, jQuery, XML, ASP, Python, Nginx, FastCGI, node.js, mongodb, Apache, IIS, Nagios, Cognos, WebEX, Netmeeting, BASH, curl, grep, Powershell, Word, Excel, Access, Exchange, Outlook, PowerPoint, Visual Studio, Eclipse, Dreamweaver, Flash, Illustrator, Photoshop, Quark, QuickBooks, WordPress, FTP, TCP/IP, Citrix, TeamSpeak, Ventrilo, VMware, McAfee, Symantec, CMS, SEO, Drupal, Magento, Remedy, Active Directory, VPN, SecureID, SDLC, ITIL, POS, Windows, Macintosh, Linux, Red Hat, UNIX, Android
+
+Employment
+
+Systems Support Engineer (September 26, 2018 – Present)
+
+Indotronix Intl Corp
+687 Lee Rd Ste 250
+Rochester, New York, NY 14606
+
+Lord Abbett
+
+90 Hudson St
+Jersey City, NJ 07302
+
+
+● Create ServiceNow Incidents for all Alerts generated during real time and Night Cycle Batch. This Includes Notifications, Escalation and Ownership of the Incident through Closure.
+● Handle Tickets escalated by the Service Desk and from Nagios Alert Monitoring Tool.
+● Tidal Job Monitoring/ Executing/ Updating/ Notifying business group.
+● Development of runbooks with new learnings using Confluence
+● Monitor Data Centre Environments at Lord Abbett locations of 90 Hudson, NJ, Breinigsville, PA ( Tierpoint) and Secacus, NJ ( Equinix).
+● Escalation to L2/L3 Support
+● Monitoring Power Consumptions, Cooling, Cabling, Server Racking and Equipment Integrity Vendor Access
+● Coordination of Vendor Access, Equipment Moves, Use of the co-location ticketing system and cage security.
+● Datacenter and Flex space walk-throughs performed weekly
+● Perform Nagios Configuration and Alert management
+● Monitor Netbackup jobs and perform restoration and manual backup whenever requested using Back tools such as VEEAM and Veritas Netbackup.
+● Monitor any building Alarms during any off-business hours shift and take appropriate action by engaging the Responsible teams.
+
+ 
+
+IT Consultant (January 5, 2015 – Present)
+
+Paul Adamczyk IT Consulting
+
+13 Parker Ave
+
+Rochelle Park, NJ 07662
+
+ 
+
+● Hand coded HTML 5.0, CSS 3, JS
+
+● Web and graphic design
+
+● SEO optimization
+
+● GoogleAdWords and FacebookAds
+
+● GoogleAnalytics & GSuite administration
+
+ 
+
+Systems Repair Technician (October 18, 2016 – December 16, 2016)
+
+ZT Systems (ZT Group Int’l, Inc.)
+
+350 Meadowlands Parkway
+
+Secaucus, NJ 07094
+
+ 
+
+● Hands on server/network/storage hardware assembly, installation, testing and integrations.
+
+● Hardware troubleshooting and stress testing of systems and components.
+
+● BIOS and Flash ROM updates on servers and systems.
+
+● Installation of new application software.
+
+● Hands on Hardware reliability system testing, reliability stresses, failure analysis and statistical analysis.
+
+● Work with engineering and other cross-functional team management to define operation project requirements, solutions and schedules.
+
+● Develop innovative techniques/approaches to accelerate failure identification and mechanism understanding and supporting technology transfer to high volume manufacturing.
+
+● Conduct root cause analysis on issues, recommend /manage implementation of appropriate solutions.
+
+● Concisely and effectively communicate progress, status and issues to management.
+
+● Participate in product design and reliability reviews during new product development to ensure robustness of product design and manufacturing processes.
+
+● Produce detailed test and failure analysis reports.
+
+ 
+
+IT Support (March 16, 2015 - April 10, 2015)
+
+Robert Half Corporation
+2613 Camino Ramon
+San Ramon, CA 94583
+(Colonial Surety Company
+50 Chestnut Ridge Road Suite 108
+Montvale, NJ 07645)
+
+ 
+
+● Provided Windows application, hardware and technical support for end users via phone, e-mail, and face to face.
+● Support lead technical administrator in Microsoft XP to 7 migration (100+ computers).
+● Administered Microsoft Access database by modifying data, generating reports, and editing tables.
+● Lead VPN implementation project to allow users to remotely log into their accounts.
+● Troubleshoot network printer issues.
+● Performed proprietary software installations and configurations.
+● Microsoft Excel data cleansing and analysis.
+
+
+Platform Support Analyst (July 14, 2014 - January 9, 2015)
+
+Bedford Freeman & Worth Publishing Group
+175 Fifth Avenue
+New York, NY 10010
+(MacMillan Science & Education
+41 Madison Avenue
+New York, NY 10010)
+
+ 
+
+● Field incoming incident / problem tickets in ServiceNow from end users (escalated from the central service desk)
+● Resolved application and software issues within servers, databases, web services and other mission-critical applications.
+● Test fixes and perform post-resolution follow-ups to ensure problems have been adequately resolved.
+● Posted software updates, knowledge base, and frequently asked questions resources on company intranet to assist in problem resolution.
+● Performed preventative maintenance, including the installation of patches, hot fixes, etc. as required.
+● Escalated to 3rd party developers to ensure prompt issue resolution.
+● Deep understanding of SQL 2005 / 2008 database tables, relationships, stored procedures, indexes and views.
+● Monitored database integrity of processes including exports and imports
+
+ 
+
+Systems Administrator (October 8, 2013 - May 1, 2014)
+
+Clanservers LLC (Game Servers)
+100 Matawan Road Suite 420
+Matawan, NJ 07747
+
+ 
+
+● Build, maintain, and deploy systems for a wide variety of gaming platforms on Windows and Linux platforms.
+● Client interaction via email, tickets, live chat and phone. Installing, upgrading and troubleshooting reported issues with applications.
+● Monitor uptime and performance of Windows Server 2003, Windows Server 2008 & Linux systems with Nagios.
+● Maintain network infrastructure and web server services such as Apache, IIS & FTP. SQL database configurations.
+● Analyze system logs and performing routine audits.
+● Adding, removing or updating user account information.
+● Reset passwords and performing backups.
+● Make contributions to organizational knowledge base.
+● Collaboration with teammates.
+● Research projects and help with product development.
+
+ 
+
+Help Desk Analyst (November 26, 2012 – February 1, 2013)
+
+CGS Technology Associates, Inc.
+242 Old New Brunswick Road Suite 420
+Piscataway, NJ 08854
+(KPMG
+51 Chestnut Ridge Road
+Montvale, NJ 07645)
+
+ 
+
+● Provide daily phone support for all end users within the Firm for all components of the IT infrastructure and Application Support. 
+● Provide guidance, assistance, coordination and follow-up on questions, problems on all system applications, hardware and software. 
+● 100% phone support required. 
+● Manage own daily individual performance measured by call capture, available time, speed of answer, and call resolution and customer support. 
+● 70% overall daily availability to answer calls is required. 
+● Ability to work in high stress, high call volume environment.
+● Record problem systems and status information through the use of REMEDY.
+● Confer with NSC management staff to apply information, systems and technology solutions to callers.
+● Provide a link with the new National Operations Center and the end user for all aspects of infrastructure support.
+● Ensure service delivery adherence to established service level agreements, through proactive monitoring and support of call volumes to attain required call captures to meet department goals.
+● Troubleshoot workstation access, applications software and functional application support, using knowledge of network operating systems or notifying the appropriate support organization.
+● Support the implementation and deployment of internal business systems and solutions.
+● Maintain technology guidelines, operating procedures and support documentation.
+● Attendance to Developmental training sessions provided by National Support Center is required.
+● Escalate or consult issues with 2nd level support and management when solution is unclear.
+
+● Proactively maintain communications with callers through analysis and resolution process particularly in difficult customer situations, to keep them informed of status.
+● Provide follow-up once resolved to ensure customer satisfaction.
+● Documentation of resolutions and submission to Knowledge Base.
+● Provide resolution and support documentation for use by New Hires.
+● Provide peer relationship and peer support to new hires.
+● Flexibility on daily and weekend schedule required to support 24x7 environment.
+● Ability to adhere to rotational shift schedule Mandatory Overtime required at peak times.
+● Perform related duties as assigned or requested.
+● Windows Administration, Active Directory, McAfee Endpoint Encryption, Microsoft Office Suite, Remedy, MySQL.
+● MobileIron support for iPhone, iPad, and Android device management.
+● Setup WIFI networks, email/contact/calendar synchronizations, and personal hotspots for Mac users.
+
+ 
+
+ 
+
+Education
+
+School Name
+
+Location
+
+Degree
+
+Major
+
+Date
+
+Date
+
+P.S. 110
+
+St. Stanislaus Kostka Academy
+
+Murry Bergtraum
+
+Memorial HS
+
+Brooklyn, NY
+
+Brooklyn, NY
+
+New York, NY
+
+Elmwood Park, NJ
+
+Diploma
+
+Diploma
+
+Transfer
+
+Diploma
+
+General Education             
+
+General Education
+
+Business
+
+General Education
+
+1993-1998
+
+1998-2002
+
+2002
+
+2002-2006
+
+Date
+
+Bergen CC
+
+Paramus, NJ
+
+Associate in Science
+
+Computer Science
+
+2006 - 2011
+
+Date
+
+ 
+
+Language
+
+Level of Proficiency
+
+English
+
+Fluent
+
+Polish
+
+Fluent
+
+Custom
+
+Experience / Freelance
+
+Byron Aucapina (SavageFitnessUSA.com) (2018 ~ Present) Shopify Developer
+● Custom Shopify store design and development (bespoke Shopify sites from scratch/framework)
+● Shopify theme setup and customization (setup and modification of existing themes)
+● Shopify store maintenance
+● Integrating Amazon, Facebook, eBay and other web services
+● Custom checkouts/upgrades
+
+Edward Kishfy (Wayne Police Athletic League) (2017)
+
+● Merged existing Microsoft Access 2013 database with new data from Microsoft Excel 2013 spreadsheet.
+
+● Modified reports and forms for business / residential clients.
+
+● Created queries, functions and filters for data normalization.
+
+● Troubleshoot application errors due to low memory, user permissions and network storage.
+
+Carmen Campana (Flooring Contractor - Campana & Son, Inc.) (2016)
+
+● QuickBooks Estimates and Invoices
+
+Stoian Valkov (Contemporary Artist / Welder – Passaic County Welders) (2016)
+
+● Regularly maintained content and developed portfolio website with Wordpress.
+
+Maciek Roszko (Construction Contractor - M.A.R. Construction) (2012 ~ Present)
+
+● Perform regular system maintenance and troubleshooting including antivirus scans, data backups, networking, and system software/hardware upgrades.
+
+Luis E. Mendoza (Chief Financial Officer - Potash One Inc. / Vice President -  K+S North America) (2014)
+
+●Install and maintain home network. Cisco router with 3 desktops, 2 laptops, 1 iPhone. Setup VPN and WPA.
+
+Sergiu Hotea (Music Producer / Remixer - ID Music - idmusic.eu) (2013)
+
+●Created backup disks of tracks, samples, VST plugins and projects. Installed new CPU, MB, GPU, and OS.
+
+Nadia Romhen (Fashion Designer - The Art Institute of New York City) (2013)
+
+● Installed MS Office and Adobe Creative Suite on MacBook Pro. Customized all settings and options. Connected to wireless home network. Provide support and troubleshooting.
+
+Luke Kaminski (Logistics Coordinator – GP Logistics JFK) (2013)
+
+● Configured and managed a safe/secure Web Server using a Dell Machine with LAMP. Installed a NAS
+
+my1fix (2010 ~ 2014) – Maintain inquiries that are posted. Provide technical support / services for those that are assigned to me. Perform on-site repairs and arrange pick-up/drop-off.
+
+ride20inch (2000 ~ 2005) - Developed, designed and maintained a website for a local BMX community in the NYC, Brooklyn and Queens area. Member area included forums where members would discuss meet-ups, events, latest videos and photography. Edited and created video footage/photography.
+
+xF (ExTREME Fragerz) (1998 ~ 2005) - Developed, designed and maintained a website for online gaming clan xF. Created custom training maps with tools like GtkRadiant for volunteer work and GIMP for texture design. Multiple games levels designed. Posted latest patches/updates and clan game server status. Documentation such as console commands/hints. Games included Doom, Quake, Wolfenstein, Duke Nukem, Soldier of Fortune, Halo
+
+F9 (Function9) (1996 ~ 2002) – Developed, designed and maintained a website for PC users full of resources such as software downloads, network tools, repair tools, archive tools, documentation, tutorials/ how-to on web development such as HTML,CSS, PHP & JavaScript. Created custom Winamp skins and Windows wallpapers.
