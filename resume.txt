@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Paul (Paweł Łukasz) Adamczyk		
 IT Consulting
 13 Parker Avenue
@@ -183,4 +184,191 @@ P.S. 110 			   Brooklyn, NY		Diploma	General Education  1993-1998
 St. Stanislaus Kostka Academy Brooklyn, NY		Diploma	General Education	1998-2002
 Murry Bergtraum 		   New York, NY		Transfer	Business		2002
 Memorial HS  		   Elmwood Park, NJ     	Diploma 	General Education	2002-2006
+=======
+﻿Paul (Paweł Łukasz) Adamczyk		
+IT Consulting
+13 Parker Avenue
+Rochelle Park, New Jersey 07662
+Website: http://www.PaulAdamczyk.com		
+Telephone: +1(201) 677-8344				
+Email: me@pauladamczyk.com
+
+IT Services, IT Consulting, IT Support, IT Help, IT Management
+Web Development, Web Design, Training, Lessons,Repair/Diagnostic
+Tune-up, Data Backup/Recovery, Virus/Spyware Removal, Networking
+Privacy/Security, PC Troubleshooting, Hardware & Software Installation/Upgrade
+
+Certificate number GR750128532PA
+ITIL® v3 Foundation certified in IT Service Management.
+IT professional with a development and engineering background.
+Enthusiastic IT Leader with 7+ years of experience with diverse sets of IT technologies and
+systems management disciplines is seeking an opportunity to join a dynamic organization in
+a leadership position that is seeking to leverage my skills.
+
+Skills
+HTML, Java, C++, SQL, PHP, CSS, Java Script, jQuery, XML, ASP, Python, Nginx, FastCGI, node.js,
+mongodb, Apache, IIS, Nagios, Cognos, WebEX, Netmeeting, BASH, curl, grep, Powershell, Word,
+Excel, Access, Exchange, Outlook, PowerPoint, Visual Studio, Eclipse, Dreamweaver, Flash,
+Illustrator, Photoshop, Quark, QuickBooks, WordPress, FTP, TCP/IP, Citrix, TeamSpeak, Ventrilo,
+VMware, McAfee, Symantec, CMS, SEO, Drupal, Magento, Remedy, Active Directory, VPN, 
+SecureID, SDLC, ITIL, POS, Windows, Macintosh, Linux, Red Hat, UNIX, Android
+English		Fluent
+Polish		Fluent
+
+Employment
+[March 16, 2015 - April 10, 2015]
+IT Support 	
+Robert Half Corporation 			
+2613 Camino Ramon 			
+San Ramon, CA 94583  			
+
+(Colonial Surety Company
+50 Chestnut Ridge Road Suite 108
+Montvale, NJ 07645)
+
+•Provide Windows application and hardware support for end users via phone, e-mail, and face to face.
+•Support lead technical administrator in Microsoft XP to 7 migration (100+ computers).
+•Administrater Microsoft Access database by modifying data, generating reports, and editing tables.
+•Lead VPN implementation project to allow users to remotely log into their accounts.
+•Troubleshoot network printer issues.
+•Proprietary software installations and configurations.
+•Microsoft Excel data cleansing and analysis. 
+
+[July 14, 2014 - January 9, 2015]
+Platform Support Analyst 
+Bedford Freeman & Worth Publishing Group 	 
+175 Fifth Avenue				 
+New York, NY 10010			
+
+(MacMillan Science & Education
+41 Madison Avenue
+New York, NY 10010)
+
+•Field incoming incident / problem tickets in ServiceNow from end users (escalated from the central service desk)
+•Resolve application and software issues within servers, databases, web services and other mission-critical applications.
+•Test fixes and perform post-resolution follow-ups to ensure problems have been adequately resolved.
+•Post software updates, knowledge bases, and frequently asked questions resources on company intranet to assist in problem resolution.
+•Perform preventative maintenance, including the installation of patches, hot fixes as required.
+•Escalation to 3rd party developers to ensure prompt issue resolution.
+•Understand database tables, relationships, stored procedures, indexes and views.
+•Monitor database integrity/processes/export import processes. 
+
+[October 8, 2013 - May 1, 2014]
+Systems Administrator
+Clanservers LLC (Game Servers)
+100 Matawan Road Suite 420
+Matawan, NJ 07747
+
+•Build, maintain, and deploy systems for a wide variety of gaming platforms on Windows and Linux platforms.
+•Client interaction via email, tickets, live chat and phone.
+•Installing, upgrading and troubleshooting reported issues with applications.
+•Monitor uptime and performance of Windows Server 2003, Windows Server 2008 & Linux systems with Nagios.
+•Maintain network infrastructure and web server services such as Apache, IIS & FTP. SQL database configurations.
+•Analyzing system logs and performing routine audits.
+•Adding, removing or updating user account information.
+•Resetting passwords and performing backups.
+•Making contributions to organizational knowledge base.
+•Collaboration with teammates.
+•Research projects and help with product development. 
+
+[November 26, 2012 – February 1, 2013]
+Help Desk Analyst
+CGS Technology Associates, Inc.
+242 Old New Brunswick Road Suite 420
+Piscataway, NJ 08854
+
+(KPMG 
+51 Chestnut Ridge Road
+Montvale, NJ 07645)
+
+•Provide daily phone support for all end users within the Firm for all components of the IT infrastructure and Application Support. 
+•Provide guidance, assistance, coordination and follow-up on questions, problems on all system applications, hardware and software. 
+•100% phone support required. 
+•Manage own daily individual performance measured by call capture, available time, speed of answer, and call resolution and customer support. 
+•70% overall daily availability to answer calls is required. 
+•Ability to work in high stress, high call volume environment.
+•Record problem systems and status information through the use of Remedy.
+•Confer with NSC management staff to apply information, systems and technology solutions to callers.
+•Provide a link with the new National Operations Center and the end user for all aspects of infrastructure support.
+•Ensure service delivery adherence to established service level agreements, through proactive monitoring and support of call volumes to attain required call captures to meet department goals.
+•Troubleshoot workstation access, applications software and functional application support, using knowledge of network operating systems or notifying the appropriate support organization.
+•Support the implementation and deployment of internal business systems and solutions.
+•Maintain technology guidelines, operating procedures and support documentation.
+•Attendance to Developmental training sessions provided by National Support Center is required.
+•Escalate or consult issues with 2nd level support and management when solution is unclear.
+•Proactively maintain communications with callers through analysis and resolution process particularly in difficult customer situations, to keep them informed of status.
+•Provide follow-up once resolved to ensure customer satisfaction.
+•Documentation of resolutions and submission to Knowledge Base.
+•Provide resolution and support documentation for use by New Hires.
+•Provide peer relationship and peer support to new hires.
+•Flexibility on daily and weekend schedule required to support 24x7 environment.
+•Ability to adhere to rotational shift schedule Mandatory Overtime required at peak times.
+•Perform related duties as assigned or requested.
+•Windows Administration, Active Directory, McAfee Endpoint Encryption, Microsoft Office Suite, Remedy, MySQL.
+•MobileIron support for iPhone, iPad, and Android device management.
+Setup WIFI networks, email/contact/calendar synchronizations, and personal hotspots for Mac users.
+
+Experience, Freelance, Projects
+[2015~2016]
+Paul Adamczyk(Paul Adamczyk IT - pauladamczyk.com)
+•Currently webmaster and developer of my portfolio site.
+
+Luke Kaminski (LukeKaminski.com - IT Tech / Logistics Coordinator – GP Logistics JFK) 
+•Configured and managed a safe/secure Web Server using a Dell Machine with LAMP. 
+Installed a NAS
+
+Carmen Campana (Flooring Contractor - Campana & Son, Inc.) 
+• QuickBooks Estimates and Invoices
+
+Stoian Valkov (Contemporary Artist / Welder – Passaic County Welders)
+• Regularly maintained content and developed portfolio website with Wordpress.
+
+Maciek Roszko (Construction Contractor - M.A.R. Construction) 
+•Perform regular system maintenance and troubleshooting including antivirus scans, data backups, networking, and system software/hardware upgrades. 
+
+[2010 ~ 2014]
+my1fix
+• Maintain inquiries that are posted. 
+• Provide technical support / services for those that are assigned to me.
+• Perform on-site repairs and arrange pick-up/drop-off.
+
+Luis E. Mendoza (Chief Financial Officer - Potash One Inc. / Vice President -  K+S North America) 
+•Install and maintain home network. Cisco router with 3 desktops, 2 laptops, 1 iPhone. Setup VPN and WPA. 
+
+Sergiu Hotea (Music Producer / Remixer - ID Music - idmusic.eu) 
+•Created backup disks of tracks, samples, VST plugins and projects. Installed new CPU, MB, GPU, and OS. 
+
+Nadia Romhen (Fashion Designer - The Art Institute of New York City) 
+•Installed MS Office and Adobe Creative Suite on MacBook Pro. 
+Customized all settings and options. 
+Connected to wireless home network. Provide support and troubleshooting. 
+
+[2000 ~ 2005]
+ride20inch (Project - Brooklyn, NY)
+• Developed, designed and maintained a website for a local BMX community in the NYC, Brooklyn and Queens area.
+• Member area included forums where members would discuss meet-ups, events, latest videos and photography.
+• Edited and created video footage/photography. 
+
+[1998 ~ 2005]
+xF (ExTREME Fragerz) (Project - Brooklyn, NY)
+• Developed, designed and maintained a website for online gaming clan xF.
+• Created custom training maps with tools like GtkRadiant for volunteer work and GIMP for texture design.
+• Multiple games levels designed. Posted latest patches/updates and clan game server status.
+• Documentation such as console commands/hints.
+• Games included Doom, Quake, Wolfenstein, Duke Nukem, Soldier of Fortune, Halo.
+
+[1996 ~ 2002]
+F9 (Function9) (Project - Brooklyn, NY)
+• Developed, designed and maintained a website for PC users full of resources .
+software downloads, network tools, repair tools, archive tools.
+documentation, tutorials/ how-to on web development such as HTML,CSS, PHP & JavaScript. 
+• Created custom Winamp skins and Windows wallpapers. 
+
+Education 
+School Name                            Location 		Degree 	Major 		Date 
+P.S. 110 			   Brooklyn, NY		Diploma	General Education  1993-1998 
+St. Stanislaus Kostka Academy Brooklyn, NY		Diploma	General Education	1998-2002
+Murry Bergtraum 		   New York, NY		Transfer	Business		2002
+Memorial HS  		   Elmwood Park, NJ     	Diploma 	General Education	2002-2006
+>>>>>>> 2d950aebcbe823d62c57ed9e64563296bcc33302
 Bergen CC 		   Paramus, NJ 		Associate Computer Science  2006

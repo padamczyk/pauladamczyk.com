@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 IT Services, IT Consulting, IT Support, IT Help, IT Management
 
 Paul Adamczyk
@@ -86,4 +87,94 @@ Nadia Romhen (Fashion Designer - The Art Institute of New York City)
 • Provide support and troubleshooting.
 
 Luke Kaminski (Logistics Coordinator -- GP Logistics JFK) 
+=======
+IT Services, IT Consulting, IT Support, IT Help, IT Management
+
+Paul Adamczyk
+http://www.pauladamczyk.com
+
+Summary
+
+Recently ITIL V3 certified IT professional with a development and engineering background. Enthusiastic IT Leader with 10+ years of experience with diverse sets of IT technologies and systems management disciplines is seeking an opportunity to join a dynamic organization in a leadership position that is seeking to leverage my skills.
+
+Skills
+
+HTML, Java, C++, SQL, PHP, CSS, Java Script, jQuery, XML, ASP, Python, Nginx, FastCGI, node.js, mongodb, Apache, IIS, Nagios, Cognos, WebEX, Netmeeting, BASH, curl, grep, Powershell, Word, Excel, Access, Exchange, Outlook, PowerPoint, Visual Studio, Eclipse, Dreamweaver, Flash, Illustrator, Photoshop, Quark, QuickBooks, WordPress, FTP, TCP/IP, Citrix, TeamSpeak, Ventrilo, VMware, McAfee, Symantec, CMS, SEO, Drupal, Magento, Remedy, Active Directory, VPN, SecureID, SDLC, ITIL, POS, Windows, Macintosh, Linux, Red Hat, UNIX, Android 
+
+Employment
+
+•Desktop / Access Support Analyst -- Robert Half Technology 
+Saddle Brook, NJ (March 2015 ~ April 2015) 
+Provide Windows application and hardware support for end users via phone, e-mail, and face to face. Support lead technical administrator in Microsoft XP to 7 migration (100+ computers). Administrate Microsoft Access database by modifying data, generating reports, and editing tables. Lead VPN implementation project to allow users to remotely log into their accounts. Troubleshoot network printer issues. Proprietary software installations and configurations. Microsoft Excel data cleansing and analysis. 
+
+•Platform Support Analyst -- MacMillan Science and Education
+New York, NY (July 2014 ~ January 2015) 
+Field incoming incident / problem tickets in ServiceNow from end users (escalated from the central service desk) to resolve application and software issues within servers, databases, web services and other mission-critical applications. Test fixes and perform post-resolution follow-ups to ensure problems have been adequately resolved. Post software updates, knowledge bases, and frequently asked questions resources on company intranet to assist in problem resolution. Perform preventative maintenance, including the installation of patches, hot fixes as required. Escalation to 3rd party developers to ensure prompt issue resolution. Understand database tables, relationships, stored procedures, indexes and views. Monitor database integrity/processes/export import processes. 
+
+•Systems Administrator -- Game Servers
+Matawan, NJ (October 2013 ~ May 2014) 
+Build, maintain, and deploy systems for a wide variety of gaming platforms on Windows and Linux platforms. Client interaction via email, tickets, live chat and phone. Installing, upgrading and troubleshooting reported issues with applications. Monitor uptime and performance of Windows Server 2003, Windows Server 2008 & Linux systems with Nagios. Maintain network infrastructure and web server services such as Apache, IIS & FTP. SQL database configurations. Analyzing system logs and performing routine audits. Adding, removing or updating user account information. Resetting passwords and performing backups. Making contributions to organizational knowledge base. Collaboration with teammates. Research projects and help with product development. 
+
+•Help Desk Analyst - KPMG
+Montvale, NJ (November 2012 ~ January 2013) 
+Provided daily phone support for all end users within the firm for all components of the IT infrastructure and application support. Provided guidance, assistance, coordination and follow-up on questions, problems on all system applications, hardware and software. Windows Administration, Active Directory, McAfee Endpoint Encryption, Microsoft Office Suite, Remedy, MySQL. MobileIron support for iPhone, iPad, and Android device management. Setup WIFI networks, email/contact/calendar synchronizations, and personal hotspots for Mac users. 
+
+Experience 
+
+F9 (Function9) (1996 ~ 2002)
+• Developed, designed and maintained a website for PC users full of resources such as software downloads, network tools, repair tools, archive tools, documentation, tutorials/ how-to on web development such as HTML,CSS, PHP & JavaScript. 
+• Created custom Winamp skins and Windows wallpapers. 
+
+xF (ExTREME Fragerz) (1998 ~ 2005)
+• Developed, designed and maintained a website for online gaming clan xF.
+• Created custom training maps with tools like GtkRadiant for volunteer work and GIMP for texture design.
+• Multiple games levels designed. Posted latest patches/updates and clan game server status.
+• Documentation such as console commands/hints.
+• Games included Doom, Quake, Wolfenstein, Duke Nukem, Soldier of Fortune, Halo
+
+ride20inch (2000 ~ 2005) 
+• Developed, designed and maintained a website for a local BMX community in the NYC, Brooklyn and Queens area.
+• Member area included forums where members would discuss meet-ups, events, latest videos and photography.
+• Edited and created video footage/photography. 
+
+my1fix (2010 ~ 2014)
+• Maintain inquiries that are posted. 
+• Provide technical support / services for those that are assigned to me.
+• Perform on-site repairs and arrange pick-up/drop-off. 
+
+pauladamczyk.com (2015) 
+• Currently webmaster and developer of my portfolio site. 
+
+Education 
+Memorial High School - Elmwood Park, NJ - Diploma 
+Bergen Community College - Paramus, NJ - Associate (Computer Science)
+
+Language
+English Fluent
+Polish Fluent
+French Conversational 
+
+Freelance 
+
+Carmen Campana (Flooring Contractor - Campana & Son, Inc.) 
+• QuickBooks Estimates and Invoices 
+
+Maciek Roszko (Construction Contractor - M.A.R. Construction) 
+• Perform regular system maintenance and troubleshooting including antivirus scans, data backups, networking, and system software/hardware upgrades.
+
+Luis E. Mendoza (Chief Financial Officer - Potash One Inc. / Vice President - K+S North America) 
+• Install and maintain home network. Cisco router with 3 desktops, 2 laptops, 1 iPhone. Setup VPN and WPA.
+
+Sergiu Hotea (Music Producer / Remixer - ID Music - idmusic.eu) 
+• Created backup disks of tracks, samples, VST plugins and projects.
+• Installed new CPU, MB, GPU, and OS. 
+
+Nadia Romhen (Fashion Designer - The Art Institute of New York City) 
+• Installed MS Office and Adobe Creative Suite on MacBook Pro. 
+• Customized all settings and options. 
+• Connected to wireless home network.
+• Provide support and troubleshooting.
+
+Luke Kaminski (Logistics Coordinator -- GP Logistics JFK) 
+>>>>>>> 2d950aebcbe823d62c57ed9e64563296bcc33302
 • Configured and managed a safe/secure Web Server using a Dell Machine with LAMP. Installed a NAS
