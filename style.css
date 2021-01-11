@@ -1,0 +1,21 @@
+body{background-position:left;font-family:"Verdana",Verdana;font-size:16px;background-color:#FFFFFF;}
+iframe{border:none;}
+table{background-color:#FFFFFF;border-color:#FFFFFF;}
+#one{display:none;position:absolute;}
+footer{background-color:#FFFFFF;}
+h1{display:none;}
+span{display:none;}
+h2{font-size:24px;text-decoration:underline;}
+h3{color:#0000ff;}
+h4{color:#00ff00;font-size:14px;}
+table{table-layout:fixed;border-spacing:5px;padding:5px;}
+a:link{color:#000;}
+a:visited{color:#000;}
+a:hover{opacity:0.5;}
+a:active{background-color:#FFFFFF;}
+a:td{background-color:#FFFFFF;-webkit-transition:width 0.5s;transition:width 0.5s;border-radius:10px;padding:10px;vertical-align:top;text-align:left;}
+td:hover{-webkit-transition-timing-function:ease-in-out;background-color:#999999;}
+section{background-color:#FFFFFF;padding:3px;border-radius:10px;border-style: outset;}
+section:hover{padding:3px;border-radius:10px;background-color:#EEEEEE;border-style: inset;}
+tr{padding:10px;}
+columbiabanktitle{-webkit-transition-timing-function:ease-in-out;background-color:#FFFFFF;}
